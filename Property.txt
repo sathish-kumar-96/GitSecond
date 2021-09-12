@@ -2,5 +2,3 @@ This is a file to be added to the Remote Repository
 
 Hello, we are happy to announce that, we are enteringb in that Area.
 Nothing to Display
-
-Added new change in the cdt branch, "Hello Everyone to this "
